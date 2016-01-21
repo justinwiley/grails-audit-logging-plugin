@@ -10,6 +10,7 @@ dependencies {
    compile 'org.grails.plugins:audit-logging:{version}'
 }
 ----
+NOTE: This refers to the main project dependencies, not buildscript dependencies.
 
 Run
 
